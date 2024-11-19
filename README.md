@@ -99,7 +99,8 @@ Analog simulation by SPECTRE.
 
 
 
-# For Transient Analysis Settings and Output
+
+For Transient Analysis Settings and Output
  
  
  ![screen shot 2](https://github.com/user-attachments/assets/d2c573ed-4958-417b-a765-581904cb122e)
@@ -109,7 +110,8 @@ Analog simulation by SPECTRE.
 
 
 
-# For DC Analysis Settings and Output
+
+For DC Analysis Settings and Output
 ![screenshot4](https://github.com/user-attachments/assets/b39418da-136e-42af-b240-19032a0a45f6)
 
 
